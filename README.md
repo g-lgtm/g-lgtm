@@ -1,6 +1,6 @@
 # Welcome to my github profile ! 👋
 
-[Here](https://g-lgtm.github.io/cv/) is my resume 
+[Here](https://g-lgtm.github.io/) is my resume 
 
 ### My GitHub stats are:
 
